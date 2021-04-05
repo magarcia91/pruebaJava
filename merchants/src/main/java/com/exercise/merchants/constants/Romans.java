@@ -1,13 +1,8 @@
 package com.exercise.merchants.constants;
 
 public enum Romans {
-	I (1),
-	V (5),
-	X (10),
-	L (50),
-	C (100),
-	D (500),
-	M (100);	
+	
+	I (1),V (5),X (10),L (50),C (100),D (500),M (100); //Define arabic roman for each roman number	
 
 	private int roman;
 	
